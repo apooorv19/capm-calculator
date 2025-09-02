@@ -57,8 +57,8 @@ Want to run this on your own machine?
 
     Clone the repository:
 
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/apooorv19/capm-calculator.git](https://github.com/apooorv19/capm-calculator/tree/main)
+    cd capm-calculator
 
     Install the required libraries:
 
